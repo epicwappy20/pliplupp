@@ -3,7 +3,7 @@
     "id": 425,
     "name": "Deltarune",
     "cover": "{COVER_URL}/425.png",
-    "url": "https://cdn.jsdelivr.net/gh/epicwappy20/html@main/425.html",
+    "url": "{HTML_URL}/425.html",
     "author": "Toby Fox",
     "authorLink": "https://deltarune.com",
     "featured": true
